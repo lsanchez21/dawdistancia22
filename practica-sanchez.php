@@ -36,7 +36,7 @@ echo $numero . '<br/>';
 
 aumentarNumero();
 aumentarNumero();
-?>
-aumentarNumero();
+
+//Añadimos un comentario para modificar el archivo
 ?>
 
